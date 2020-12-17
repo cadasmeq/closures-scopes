@@ -1,0 +1,5 @@
+SCOPE: Alcance que va a tener una variable dentro del codigo. Encargado de
+saber a que bloques de código podrá acceder cada variable.
+
+SCOPE GLOBAL / LOCAL y sus variaciones.
+
