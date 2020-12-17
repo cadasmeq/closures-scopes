@@ -1,0 +1,21 @@
+{
+  "name": "closures-scope",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cadasmeq/closures-scopes.git"
+  },
+  "keywords": [],
+  "author": "Cristopher Adasme <cadasmeq@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cadasmeq/closures-scopes/issues"
+  },
+  "homepage": "https://github.com/cadasmeq/closures-scopes#readme"
+}
+
