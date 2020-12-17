@@ -3,3 +3,6 @@ saber a que bloques de código podrá acceder cada variable.
 
 SCOPE GLOBAL / LOCAL y sus variaciones.
 
+CLOSURE: Es la combinación de una funcion y el ambito léxico
+en la cual ha sido declarada dicha función. Recuerda el ambito en el cual
+ha sido creado.
